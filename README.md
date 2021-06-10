@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 💻 React, React-Native, Gatsby, Next
-- ⚡ Web Dev
+- 🚀 Web Dev
 - ⚡ Etherum
 - 🌈 Startups
 - 💰 Bitcoin
